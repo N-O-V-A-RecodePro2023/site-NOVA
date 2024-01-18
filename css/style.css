@@ -359,6 +359,7 @@ h6,
     background: var(--light);
     overflow: hidden;
     transition: .5s;
+
 }
 
 .service-item:hover {
@@ -375,9 +376,10 @@ h6,
     align-items: center;
     justify-content: center;
     color: var(--light);
-    background: url(../img/blob-primary.png) center center no-repeat;
+    background: url(../img/blob-primary.png)  center center no-repeat;
     background-size: contain;
     transition: .5s;
+   
 }
 
 .service-item:hover .service-icon {
@@ -385,6 +387,7 @@ h6,
     background: url(../img/blob-secondary.png) center center no-repeat;
     background-size: contain;
 }
+
 
 .service-item h5,
 .service-item p {
@@ -415,8 +418,8 @@ h6,
 
 .service-item:hover a.btn {
     bottom: 0;
-}
 
+}
 
 /*** Project Portfolio ***/
 #portfolio-flters li {
