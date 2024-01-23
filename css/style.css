@@ -437,6 +437,7 @@ h6,
     border-color: var(--primary);
 }
 
+<<<<<<< HEAD
 /* Estilos para os itens do portfólio */
 .portfolio-item {
     max-width: 200vh; /* Defina a largura máxima desejada para os cards */
@@ -455,6 +456,17 @@ h6,
 
 /* Estilos para a sobreposição dos itens do portfólio */
 .portfolio-overlay {
+=======
+.portfolio-item img {
+    transition: .5s;
+}
+
+.portfolio-item:hover img {
+    transform: scale(1.1);
+}
+
+.portfolio-item .portfolio-overlay {
+>>>>>>> ef36cf7578968417e21f6d9ac702cf2e85389a8d
     position: absolute;
     display: flex;
     align-items: center;
@@ -471,6 +483,7 @@ h6,
 .portfolio-item:hover .portfolio-overlay {
     opacity: 1;
 }
+<<<<<<< HEAD
 .portfolio-item {
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     margin-bottom: 20px;
@@ -482,6 +495,8 @@ h6,
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   }
   
+=======
+>>>>>>> ef36cf7578968417e21f6d9ac702cf2e85389a8d
 
 
 /*** Newsletter ***/
@@ -530,7 +545,11 @@ h6,
 
 .testimonial-carousel .owl-nav .owl-prev:hover,
 .testimonial-carousel .owl-nav .owl-next:hover {
+<<<<<<< HEAD
     color: var(--light);
+=======
+    color: #FFFFFF;
+>>>>>>> ef36cf7578968417e21f6d9ac702cf2e85389a8d
     background: var(--primary);
     box-shadow: 0 0 10px rgba(0, 0, 0, .5);
 }
@@ -636,7 +655,10 @@ h6,
 #btn-geral {
         background-color: var(--secondary)
 }
+<<<<<<< HEAD
 
 #btn-editar {
     background-color: var(--primary)
 }
+=======
+>>>>>>> ef36cf7578968417e21f6d9ac702cf2e85389a8d
