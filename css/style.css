@@ -437,15 +437,24 @@ h6,
     border-color: var(--primary);
 }
 
-.portfolio-item img {
+/* Estilos para os itens do portfólio */
+.portfolio-item {
+    max-width: 200vh; /* Defina a largura máxima desejada para os cards */
+    margin: 0 auto;   /* Isso centralizará os cards na página */
     transition: .5s;
 }
 
-.portfolio-item:hover img {
+.portfolio-item img {
+    max-width: 100%;   /* Isso garantirá que a imagem não ultrapasse a largura do card */
+    height: auto;      /* Isso manterá a proporção da imagem */
+}
+
+.portfolio-item:hover {
     transform: scale(1.1);
 }
 
-.portfolio-item .portfolio-overlay {
+/* Estilos para a sobreposição dos itens do portfólio */
+.portfolio-overlay {
     position: absolute;
     display: flex;
     align-items: center;
@@ -462,6 +471,17 @@ h6,
 .portfolio-item:hover .portfolio-overlay {
     opacity: 1;
 }
+.portfolio-item {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    transition: transform 0.3s;
+  }
+  
+  .-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
 
 
 /*** Newsletter ***/
@@ -510,7 +530,7 @@ h6,
 
 .testimonial-carousel .owl-nav .owl-prev:hover,
 .testimonial-carousel .owl-nav .owl-next:hover {
-    color: #FFFFFF;
+    color: var(--light);
     background: var(--primary);
     box-shadow: 0 0 10px rgba(0, 0, 0, .5);
 }
@@ -615,4 +635,8 @@ h6,
 
 #btn-geral {
         background-color: var(--secondary)
+}
+
+#btn-editar {
+    background-color: var(--primary)
 }
