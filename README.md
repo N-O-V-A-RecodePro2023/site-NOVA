@@ -13,8 +13,19 @@ Estamos criando um site de busca de vagas de emprego exclusiva para PCDs, que aj
 Projeto desenvolvido durante o curso **Recode Pro 2023** para formação de desenvolvedores de softwares fullstack oferecido pela [Recode](https://recodepro.org.br).
 
 
-### **Frontend** 
-![ImgIndexl](https://github.com/N-O-V-A-RecodePro2023/site-NOVA/blob/main/img/Captura%20de%20tela%202024-01-25%20205151.png)
+### **Frontend**
+
+<div align="center">
+  <img src="https://github.com/N-O-V-A-RecodePro2023/site-NOVA/blob/main/img/1.png" alt="Descrição da Imagem 1" width="450" height="400">&nbsp;&nbsp;
+  <img src="https://github.com/N-O-V-A-RecodePro2023/site-NOVA/blob/main/img/2.png" alt="Descrição da Imagem 2" width="450" height="400">&nbsp;&nbsp;
+  <img src="https://github.com/N-O-V-A-RecodePro2023/site-NOVA/blob/main/img/3.png" alt="Descrição da Imagem 3 "width="450" height="400">&nbsp;&nbsp;
+  <img src="https://github.com/N-O-V-A-RecodePro2023/site-NOVA/blob/main/img/4.png" alt="Descrição da Imagem 4" width="450" height="400">
+</div>
+
+
+
+
+Descrição breve do Frontend.
 
 -   **HTML**
 -   **CSS**
