@@ -33,10 +33,10 @@ Projeto desenvolvido durante o curso **Recode Pro 2023** para formação de dese
 ### **Backend** 
 [Depositório BackEnd](https://github.com/N-O-V-A-RecodePro2023/JavaSpringSecurity)
 
--   **Java**
--   **Spring Boot Security**
--   **Thymeleaf**
--   **SQL**
+-  **Java**
+	- Spring Boot
+   	- Thymeleaf
+-  **SQL**
 
 
 ## 👩🏽‍💻👩🏽‍💻 Autores 👨🏽‍💻👩🏽‍💻
