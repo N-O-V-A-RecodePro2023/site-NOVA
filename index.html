@@ -32,21 +32,31 @@
     <!-- Template Stylesheet -->
     <link href="css/style.css" rel="stylesheet">
 
-    <!-- Acessibilidade -->
+    <!-- Acessibilidade-->
     <link rel="import" href="vlibras.html">
     <script src="https://cdn.userway.org/widget.js" data-account="09FcxZNn6a"></script>
     <script src="acessibilidade.js"></script>
+</head>
 
-    <!-- Acessibilidade (VLibras) -->
-    <script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script>
-    <script>
-        new window.VLibras.Widget('https://vlibras.gov.br/app');
-    </script>
-    <style>
-        .access-button {
-            border-radius: 50px;
-        }
-    </style>
+<!-- Acessibilidade-->
+<div vw class="enabled">
+    <div vw-access-button class="active"></div>
+    <div vw-plugin-wrapper>
+        <div class="vw-plugin-top-wrapper"></div>
+    </div>
+</div>
+<script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script>
+<script>
+    new window.VLibras.Widget('https://vlibras.gov.br/app');
+</script>
+<style>
+    .access-button {
+        border-radius: 50px;
+    }
+</style>
+
+<script src="https://cdn.userway.org/widget.js" data-account="09FcxZNn6a"></script>
+<script src="acessibilidade.js"></script>
 </head>
 
 <body>
@@ -1495,70 +1505,71 @@
                 </div>
             </div>
             <!-- Modal end -->
-            <!-- Testimonial Start -->
-            <section class="container-xxl py-5 wow fadeInUp" data-wow-delay="0.1s">
-                <div class="container py-5 px-lg-5">
-                    <p class="section-title text-secondary justify-content-center"><span></span>Testemunho<span></span>
-                    </p>
-                    <h2 class="text-center mb-5">Depoimentos </h2>
-                    <div class="owl-carousel testimonial-carousel">
+   <!-- Testimonial Start -->
+   <section class="container-xxl py-5 wow fadeInUp" data-wow-delay="0.1s">
+    <div class="container py-5 px-lg-5">
+        <p class="section-title text-secondary justify-content-center"><span></span>Testemunho<span></span>
+        </p>
+        <h2 class="text-center mb-5">Depoimentos </h2>
+        <div class="owl-carousel testimonial-carousel">
 
-                        <article class="testimonial-item bg-light rounded my-4">
-                            <p class="fs-5"><i class="fa fa-quote-left fa-4x text-primary mt-n4 me-3"></i>O NOVA foi
-                                minha ponte para
-                                o
-                                emprego dos sonhos! Encontrei uma vaga perfeita que valorizou minhas habilidades e
-                                experiência.
-                                Estou muito grato por essa plataforma.</p>
-                            <div class="d-flex align-items-center">
-                                <img class="img-fluid flex-shrink-0 rounded-circle" src="img/mariodepo.jpg"
-                                    style="width: 65px; height: 65px;">
-                                <div class="ps-4">
-                                    <h5 class="mb-1">Mario Silva</h5>
-                                    <span>Desenvolvedor</span>
-                                </div>
-                            </div>
-                        </article>
-
-                        <article class="testimonial-item bg-light rounded my-4">
-                            <p class="fs-5"><i class="fa fa-quote-left fa-4x text-primary mt-n4 me-3"></i>Finalmente
-                                encontrei a vaga
-                                ideal no NOVA!
-                                A plataforma me conectou a uma empresa inclusiva que reconhece o potencial das pessoas
-                                com deficiência.
-                                Recomendo a todos.</p>
-                            <div class="d-flex align-items-center">
-                                <img class="img-fluid flex-shrink-0 rounded-circle" src="img/mariadepo.jpg"
-                                    style="width: 65px; height: 65px;">
-                                <div class="ps-4">
-                                    <h5 class="mb-1">Maria Clara</h5>
-                                    <span>Administradora</span>
-                                </div>
-                            </div>
-                        </article>
-
-                        <article class="testimonial-item bg-light rounded my-4">
-                            <p class="fs-5"><i class="fa fa-quote-left fa-4x text-primary mt-n4 me-3"></i>Com o NOVA,
-                                minha jornada
-                                rumo
-                                ao mercado de trabalho foi um sucesso!
-                                Achei uma vaga alinhada com minhas aspirações e encontrei um ambiente onde sou
-                                valorizada pelo que sou.
-                            </p>
-                            <div class="d-flex align-items-center">
-                                <img class="img-fluid flex-shrink-0 rounded-circle" src="img/anadepo.jpg"
-                                    style="width: 65px; height: 65px;">
-                                <div class="ps-4">
-                                    <h5 class="mb-1">Ana Paula</h5>
-                                    <span>Design</span>
-                                </div>
-                            </div>
-                        </article>
-
+            <article class="testimonial-item bg-light rounded my-4">
+                <p class="fs-5"><i class="fa fa-quote-left fa-4x text-primary mt-n4 me-3"></i>O NOVA foi
+                    minha ponte para
+                    o
+                    emprego dos sonhos! Encontrei uma vaga perfeita que valorizou minhas habilidades e
+                    experiência.
+                    Estou muito grato por essa plataforma.</p>
+                <div class="d-flex align-items-center">
+                    <img class="img-fluid flex-shrink-0 rounded-circle" src="img/mariodepo.jpg"
+                        style="width: 65px; height: 65px;">
+                    <div class="ps-4">
+                        <h5 class="mb-1">Mario Silva</h5>
+                        <span>Desenvolvedor</span>
                     </div>
                 </div>
-            </section>
-            <!-- Testimonial End -->
+            </article>
+
+            <article class="testimonial-item bg-light rounded my-4">
+                <p class="fs-5"><i class="fa fa-quote-left fa-4x text-primary mt-n4 me-3"></i>Finalmente
+                    encontrei a vaga
+                    ideal no NOVA!
+                    A plataforma me conectou a uma empresa inclusiva que reconhece o potencial das pessoas
+                    com deficiência.
+                    Recomendo a todos.</p>
+                <div class="d-flex align-items-center">
+                    <img class="img-fluid flex-shrink-0 rounded-circle" src="img/mariadepo.jpg"
+                        style="width: 65px; height: 65px;">
+                    <div class="ps-4">
+                        <h5 class="mb-1">Maria Clara</h5>
+                        <span>Administradora</span>
+                    </div>
+                </div>
+            </article>
+
+            <article class="testimonial-item bg-light rounded my-4">
+                <p class="fs-5"><i class="fa fa-quote-left fa-4x text-primary mt-n4 me-3"></i>Com o NOVA,
+                    minha jornada
+                    rumo
+                    ao mercado de trabalho foi um sucesso!
+                    Achei uma vaga alinhada com minhas aspirações e encontrei um ambiente onde sou
+                    valorizada pelo que sou.
+                </p>
+                <div class="d-flex align-items-center">
+                    <img class="img-fluid flex-shrink-0 rounded-circle" src="img/anadepo.jpg"
+                        style="width: 65px; height: 65px;">
+                    <div class="ps-4">
+                        <h5 class="mb-1">Ana Paula</h5>
+                        <span>Design</span>
+                    </div>
+                </div>
+            </article>
+
+        </div>
+    </div>
+</section>
+<!-- Testimonial End -->
+
             <!-- Nosso Time Start -->
             <section class="container-xxl py-5">
                 <div class="container py-5 px-lg-5">
