@@ -19,7 +19,7 @@ Projeto desenvolvido durante o curso **Recode Pro 2023** para formação de dese
   <img src="https://github.com/N-O-V-A-RecodePro2023/site-NOVA/blob/main/img/1.png" alt="Descrição da Imagem 1" width="230" height="370">&nbsp;&nbsp;
       <img src="https://github.com/N-O-V-A-RecodePro2023/site-NOVA/blob/main/img/6.png" alt="Descrição da Imagem 5" width="230" height="370"> &nbsp;
   <img src="https://github.com/N-O-V-A-RecodePro2023/site-NOVA/blob/main/img/2.png" alt="Descrição da Imagem 2" width="230" height="370">&nbsp;&nbsp;
-       <img src="https://github.com/N-O-V-A-RecodePro2023/site-NOVA/blob/main/img/2.png" alt="Descrição da Imagem 2" width="230" height="370">&nbsp;&nbsp; 
+       <img src="https://github.com/N-O-V-A-RecodePro2023/site-NOVA/blob/main/img/5.png" alt="Descrição da Imagem 2" width="230" height="370">&nbsp;&nbsp; 
   <img src="https://github.com/N-O-V-A-RecodePro2023/site-NOVA/blob/main/img/3.png" alt="Descrição da Imagem 3" width="230" height="370">&nbsp;&nbsp;  
  <img src="https://github.com/N-O-V-A-RecodePro2023/site-NOVA/blob/main/img/7.png" alt="Descrição da Imagem 6" width="230" height="370"> &nbsp;&nbsp;
   <img src="https://github.com/N-O-V-A-RecodePro2023/site-NOVA/blob/main/img/4.png" alt="Descrição da Imagem 4" width="230" height="370"> 
