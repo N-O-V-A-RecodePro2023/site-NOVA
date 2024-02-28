@@ -69,7 +69,6 @@ Este projeto está sob as licenças:
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
-site-NOVA/README.md at 52b91dd1f494b18e92dfe22a3a9ce2ead57be18f · N-O-V-A-RecodePro2023/site-NOVA
 
 ## Licenças
 
