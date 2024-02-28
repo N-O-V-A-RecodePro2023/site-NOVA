@@ -1,61 +1,49 @@
-<h1 align="center"> Website NOVA </h1> 
+<h1 align="center"> Favela Ligada - App Inventor </h1> 
 
 <h1 align="center">
-      <img alt="logoNova" title="LOGONOVA" src="https://github.com/N-O-V-A-RecodePro2023/siteNOVA/blob/main/IMG/LogoNOVA.png" width="200vw"/>
+     <img alt="logoNova" title="LOGONOVA" src="https://github.com/nataliarodrxgues/favela-ligada-app/blob/main/img/logoB.png" width="35%">
+
 </h1>
 
 <h4 align="center">  :rocket: Projeto finalizado! :rocket: </h4>
 
 ## 💻 Sobre o projeto
 
-NOVA é acrônimo para NÚCLEO DE OPORTUNIDADES E VALORIZAÇÃO DA ACESSIBILIDADE. O projeto visa diminuir a desigualdade e aumentar a inclusão no mercado de trabalho para pessoas que possuem algum tipo de deficiência. 
-Estamos criando um site de busca de vagas de emprego exclusiva para PCDs, que ajude a conectar as empresas ao público-alvo e permita a criar perfil, cadastrar currículo e promover mentorias profissionais de voluntários. 
-Projeto desenvolvido durante o curso **Recode Pro 2023** para formação de desenvolvedores de softwares fullstack oferecido pela [Recode](https://recodepro.org.br).
+App criado no Hackathoon 2023 da Recode com a Panic Lobster, o Favela Ligada, é um App para ajudar os empreendedores locais dentro de comunidades a aumentar suas vendas e divulgação de seus serviços, através de ferramentas de divulgação, localização e entrega de seus produtos dentro da plataforma. 
+Projeto desenvolvido durante o Hackthoon da **Recode Pro 2023**  com a **Panic Lobster** para adquirir vaga no projeto da [Recode](https://recodepro.org.br).
+<br><br><br><br>
 
-
-### **Frontend**
+### **Visualização do App**
 
 <div align="center">
-  <img src="https://github.com/N-O-V-A-RecodePro2023/site-NOVA/blob/main/img/1.png" alt="Descrição da Imagem 1" width="230" height="370">&nbsp;&nbsp;
- <img src="https://github.com/N-O-V-A-RecodePro2023/site-NOVA/blob/main/img/6.png" alt="Descrição da Imagem 5" width="230" height="370"> &nbsp;
-  <img src="https://github.com/N-O-V-A-RecodePro2023/site-NOVA/blob/main/img/2.png" alt="Descrição da Imagem 2" width="230" height="370">&nbsp;&nbsp;
-  <img src="https://github.com/N-O-V-A-RecodePro2023/site-NOVA/blob/main/img/3.png" alt="Descrição da Imagem 3" width="230" height="370">&nbsp;&nbsp;  
- <img src="https://github.com/N-O-V-A-RecodePro2023/site-NOVA/blob/main/img/7.png" alt="Descrição da Imagem 6" width="230" height="370"> &nbsp;&nbsp;
-  <img src="https://github.com/N-O-V-A-RecodePro2023/site-NOVA/blob/main/img/4.png" alt="Descrição da Imagem 4" width="230" height="370"> 
+<img src="https://github.com/nataliarodrxgues/favela-ligada-app/blob/main/img/pagInicial" width="230" height="370">&nbsp;&nbsp;
+<img src="https://github.com/nataliarodrxgues/favela-ligada-app/blob/main/img/login" width="230" height="370"> &nbsp;
+<img src="https://github.com/nataliarodrxgues/favela-ligada-app/blob/main/img/servicos" width="230" height="370"> &nbsp;
+<img src="https://github.com/nataliarodrxgues/favela-ligada-app/blob/main/img/servicosCont" width="230" height="370">&nbsp;&nbsp;
 
 </div>
 
--   **HTML**
--   **CSS**
--   **Bootstrap**
--   **JavaScript**
 
-### **Backend** 
-[Repositório BackEnd](https://github.com/N-O-V-A-RecodePro2023/JavaSpringSecurity)
+### **Tecnologisas Usadas** 
 
--  **Java**
-	- Spring Boot
-   	- Thymeleaf
--  **SQL**
+-  **App Inventor**
+-  **Figma**
+-  **Canva**
 
 
 ## 👩🏽‍💻👩🏽‍💻 Autores 👨🏽‍💻👩🏽‍💻
 
-Bruna Lorena Soares Gama - [@gama07](https://www.github.com/gama07)
+Guilherme Oliveira - [@guidev1989](github.com/guidev1989)
 <br>
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruna-lorena-46819528a/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/guilherme-oliveira-041472280).
 
-Maycon Martins Lima - [@mikemars0701](https://www.github.com/mikemars0701)
+Kevin Lopes - [@Kevinlps](https://github.com/Kevinlps)
 <br>
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maycon-martins-b1654023a/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-lopes-costa/)
 
-Natacha Aquino de Carvalho - [@eu1natacha](https://www.github.com/eu1natacha)
+Leticia Coutinho- [@Lcoutinho92](https://github.com/Lcoutinho92)
 <br>
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natacha-carvalho)
-
-Natália Marques da Silva - [@Natalia203](https://www.github.com/Natalia203)
-<br>
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natália-marques-2a1763186/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lecoutinhom92/)
 
 Natalia Oliveira Rodrigues- [@nataliarodrxgues](https://www.github.com/nataliarodrxgues)
 <br>
