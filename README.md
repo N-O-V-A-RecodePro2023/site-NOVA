@@ -32,7 +32,7 @@ Projeto desenvolvido durante o curso **Recode Pro 2023** para formação de dese
 -   **JavaScript**
 
 ### **Backend** 
-[Depositório BackEnd](https://github.com/N-O-V-A-RecodePro2023/JavaSpringSecurity)
+[Repositório BackEnd](https://github.com/N-O-V-A-RecodePro2023/JavaSpringSecurity)
 
 -  **Java**
 	- Spring Boot
